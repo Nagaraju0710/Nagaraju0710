@@ -1,10 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://Nagaraju0710.io)
 <h1 align="center">Hi 👋, I'm Nagaraju Lonka</h1>
 <h3 align="center">A passionate Full Stack Web Developer adept in MERN stack, looking for an opportunity to work in an environment where I can utilize my skills and learn and grow more.</h3>
-<img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/112071699?v=4">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaraju0710&label=Profile%20views&color=0e75b6&style=flat" alt="nagaraju0710" /> </p>
 
 - 🌱 I’m currently learning **Full Stack web developer**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Nagaraju0710/Nagaraju0710.github.io](https://github.com/Nagaraju0710/Nagaraju0710.github.io)
 
 - 💬 Ask me about **MERN**
 
