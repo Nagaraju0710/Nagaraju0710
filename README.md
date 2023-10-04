@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://nagaraju0710.github.io/)
 <h1 align="center">Hi 👋, I'm Nagaraju Lonka</h1>
 <h3 align="center"> I am a passionate Full Stack Web Developer adept in MERN stack, looking for an opportunity to work in an environment where I can utilize my skills and learn and grow more.</h3>
-<img align="right" alt="Coding" width="400" src="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nagaraju0710&label=Profile%20views&color=0e75b6&style=flat" alt="hemant142" /> </p>
 
@@ -10,7 +10,7 @@
 - 💬 Ask me about *React, Html,CSS & Javascript*
 
 - 📫 How to reach me *nagarajulonka1999@gmail.com*
-- 👨‍💻To know more about my work, please visit my <a href="https://nagaraju0710.github.io/" target="_blank">Portfolio</a>
+- 👨‍💻To know more about my work, please visit my https://nagaraju0710.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
