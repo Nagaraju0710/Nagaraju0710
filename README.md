@@ -3,7 +3,7 @@
 <h3 align="center"> I am a passionate Full Stack Web Developer adept in MERN stack, looking for an opportunity to work in an environment where I can utilize my skills and learn and grow more.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nagaraju0710&label=Profile%20views&color=0e75b6&style=flat" alt="hemant142" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nagaraju0710&label=Profile%20views&color=0e75b6&style=flat" alt="Nagaraju0710" /> </p>
 
 - 🌱 I’m currently learning Full Stack Web Development*
 
